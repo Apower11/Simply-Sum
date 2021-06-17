@@ -3,7 +3,7 @@ import { Navbar, Nav, NavDropdown, Form, FormControl, Button } from 'react-boots
 export default function NavbarComponent(props) {
     return (
         <Navbar collapseOnSelect expand="lg" bg="primary" variant="dark">
-  <Navbar.Brand href="#home">Maths Guru</Navbar.Brand>
+  <Navbar.Brand href="#home">Simply Sum</Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="mr-auto">
